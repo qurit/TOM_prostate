@@ -193,10 +193,8 @@ with patient paths cannot be committed by accident.
 
 ## Citation
 
-If you use this code, please cite the accompanying manuscript (see
-`CITATION.cff`). The registration backend is
-[uniGradICON](https://github.com/uncbiag/uniGradICON); the development cohort is
-the autoPET IV PSMA PET/CT dataset.
+If you use this code, please cite the accompanying manuscript 
+F. Yousefirizi, P. Esquinas, C. Uribe, Population-Based Multi-Parametric Tumor Occurrence Maps of Metastatic Distribution in Prostate Cancer Using PSMA PET/CT, submitted to JNM
 
 ## License
 
